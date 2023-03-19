@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP_KPL_MOD5_1302213072/1.0.0": {
+        "runtime": {
+          "TP_KPL_MOD5_1302213072.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP_KPL_MOD5_1302213072/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
